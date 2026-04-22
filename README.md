@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name]
+# Hi, I'm Alfred T.
 
 ### IT Student · PSU San Carlos · Dev
 
