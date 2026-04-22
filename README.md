@@ -17,7 +17,7 @@ Currently an intern at <b>Outsoar PH</b>, building real-world development experi
 I'm an IT student at **PSU San Carlos** with a strong interest in software development and building systems that solve real problems.
 
 * Currently working as an **Intern at Outsoar PH**
-* Focused on **backend development and system design**
+* IT student and developer working across frontend and backend, with a focus on backend development and system design.
 * Interested in **clean architecture and scalable applications**
 * Continuously improving through real-world projects and collaboration
 
