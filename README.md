@@ -33,19 +33,9 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 
 ## Projects
 
-### 🔹 Inventory Management System
-
-A system for managing products, tracking inventory, and handling business operations efficiently.
-**Tech:** PHP, MySQL, JavaScript
-
-### 🔹 Web-Based Application
-
-Developed a responsive application with user-friendly interfaces and backend integration.
-**Tech:** HTML, CSS, JS
-
-### 🔹 Academic / Personal Projects
-
-Worked on multiple school and personal projects focused on functionality and usability.
+## ?
+## ?
+## ?
 
 ---
 
