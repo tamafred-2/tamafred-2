@@ -25,12 +25,6 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,python,mysql,git,github,vscode" />
-</p>
-
-### Skill Levels
-
 ![HTML](https://skill-progress-production.up.railway.app/progress?skill=html\&level=4)
 ![CSS](https://skill-progress-production.up.railway.app/progress?skill=css\&level=4)
 ![JavaScript](https://skill-progress-production.up.railway.app/progress?skill=javascript\&level=3)
