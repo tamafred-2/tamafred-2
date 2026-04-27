@@ -29,12 +29,26 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,php,python,mysql,git,github,vscode" />
 </p>
 
+### Skill Levels
+
+![HTML](https://skill-progress-production.up.railway.app/progress?skill=html\&level=4)
+![CSS](https://skill-progress-production.up.railway.app/progress?skill=css\&level=4)
+![JavaScript](https://skill-progress-production.up.railway.app/progress?skill=javascript\&level=3)
+![Node.js](https://skill-progress-production.up.railway.app/progress?skill=nodejs\&level=3)
+![React](https://skill-progress-production.up.railway.app/progress?skill=react\&level=2)
+![PHP](https://skill-progress-production.up.railway.app/progress?skill=php\&level=3)
+![Python](https://skill-progress-production.up.railway.app/progress?skill=python\&level=2)
+![MySQL](https://skill-progress-production.up.railway.app/progress?skill=mysql\&level=3)
+![Git](https://skill-progress-production.up.railway.app/progress?skill=git\&level=3)
+
 ---
 
 ## Projects
 
 ## ?
+
 ## ?
+
 ## ?
 
 ---
@@ -69,9 +83,9 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 
 ## 📬 Contact Me
 
-- 📧 Email: tamafred2@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/alfred-tamayo-94411b401/  
-- 🧑‍💻 Upwork: https://www.upwork.com/freelancers/~01796b2bdfa52c729e  
-- 💻 GitHub: https://github.com/tamafred-2  
+* 📧 Email: [tamafred2@gmail.com](mailto:tamafred2@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/alfred-tamayo-94411b401/
+* 🧑‍💻 Upwork: https://www.upwork.com/freelancers/~01796b2bdfa52c729e
+* 💻 GitHub: https://github.com/tamafred-2
 
 ---
