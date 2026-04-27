@@ -69,8 +69,8 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 
 ## Contact
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 💼 LinkedIn: linkedin.com/in/yourprofile
-* 💻 GitHub: github.com/YOUR_USERNAME
+* 📧 Email: [tamafred2@gmail.com](mailto:tamafred2@gmail.com)
+* 💼 Upwork: [linkedin.com/in/yourprofile](https://www.upwork.com/freelancers/~01796b2bdfa52c729e)
+* 💻 GitHub: github.com/tamafred-2
 
 ---
