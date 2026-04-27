@@ -70,7 +70,7 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 ## Contact
 
 * 📧 Email: [tamafred2@gmail.com](mailto:tamafred2@gmail.com)
-* 💼 Upwork: [linkedin.com/in/yourprofile](https://www.upwork.com/freelancers/~01796b2bdfa52c729e)
+* 💼 Linkedin: https://www.linkedin.com/in/alfred-tamayo-94411b401/
 * 💻 GitHub: github.com/tamafred-2
 
 ---
