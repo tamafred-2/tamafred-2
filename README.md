@@ -43,8 +43,8 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tamafred-2&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamafred-2&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
