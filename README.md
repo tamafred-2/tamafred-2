@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alfred T.
+# Hi, I'm Alfred Tamayo
 
 ### IT Student · PSU San Carlos · Dev
 
