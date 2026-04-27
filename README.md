@@ -53,7 +53,7 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamafred-2&theme=github-dark" />
 </p>
 
 ---
