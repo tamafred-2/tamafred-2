@@ -25,69 +25,14 @@ I'm an IT student at **PSU San Carlos** with a strong interest in software devel
 
 ## Tech Stack
 
-<h3 align="center">💻 Frontend</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=html&level=4" title="HTML" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=css&level=4" title="CSS" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=javascript&level=3" title="JavaScript" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=react&level=2" title="React" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=tailwind&level=3" title="Tailwind CSS" />
+<p><b>Development</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,laravel,django,mysql,sqlite" />
 </p>
 
-<h3 align="center">⚙️ Backend & Frameworks</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=nodejs&level=3" title="Node.js" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=php&level=3" title="PHP" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=laravel&level=3" title="Laravel" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=django&level=2" title="Django" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=aspnetcore&level=2" title="ASP.NET Core" />
-</p>
-
-<h3 align="center">🧠 Programming Languages</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=python&level=2" title="Python" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=java&level=2" title="Java" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=kotlin&level=2" title="Kotlin" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=dart&level=2" title="Dart" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=cpp&level=2" title="C++" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=csharp&level=2" title="C#" />
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=mysql&level=3" title="MySQL" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=postgresql&level=3" title="PostgreSQL" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=sqlite&level=3" title="SQLite" />
-</p>
-
-<h3 align="center">🚀 Tools & Runtime</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=npm&level=3" title="npm" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=vite&level=3" title="Vite" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=bun&level=2" title="Bun" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=firebase&level=3" title="Firebase" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=vercel&level=3" title="Vercel" />
-</p>
-
-<h3 align="center">🛠️ Development Tools</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=git&level=3" title="Git" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=github&level=3" title="GitHub" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=vscode&level=4" title="Visual Studio Code" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=visualstudio&level=3" title="Visual Studio" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=eclipse&level=2" title="Eclipse" />
-</p>
-
-<h3 align="center">🧩 Other Technologies</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=langchain&level=2" title="LangChain" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=blade&level=3" title="Blade" />
-</p>
-
-<h3 align="center">🖥️ Operating Systems</h3>
-<p align="center">
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=windows&level=4" title="Windows" />
-  <img src="https://skill-progress-production.up.railway.app/progress?skill=zorin&level=3" title="Zorin OS" />
+<p><b>Tools</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm,vite,firebase,vercel" />
 </p>
 
 ---
