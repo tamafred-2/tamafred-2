@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alfred Tamayo 👋
+# Hi, I'm Alfred Tamayo
 ### Web Developer · BSIT @ PSU San Carlos
 
 <p>
