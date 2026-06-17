@@ -96,6 +96,6 @@ A web-based system built with **Laravel Breeze** to complement TESDA's existing 
 * 📧 Email: [tamafred2@gmail.com](mailto:tamafred2@gmail.com)
 * 💼 LinkedIn: [alfred-tamayo](https://www.linkedin.com/in/alfred-tamayo-94411b401/)
 * 🧑‍💻 Upwork: [Alfred Tamayo](https://www.upwork.com/freelancers/~01796b2bdfa52c729e)
-* 💻 GitHub: [tamafred-2](https://github.com/tamafred-2)
+* 💻 Contact: +63 907 2327 721
 
 ---
