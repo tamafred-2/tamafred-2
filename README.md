@@ -22,54 +22,98 @@ I'm a web developer finishing my BSIT (major in **Web and Mobile Technologies**)
 
 ---
 
-## Tech Stack
+## 💻 Primary Stack
 
-<p><b>Programming Languages</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,java,kotlin,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,flutter,dart,html,css,js,tailwind,mysql,postgres,sqlite,docker,git,github,vite,java,cs,cpp" />
 </p>
 
-<p><b>Web & Markup</b></p>
+### 🌱 Currently Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
-<p><b>Frameworks & Libraries</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,nodejs" />
-</p>
+### 🛠️ Familiar With
 
-<p><b>Databases</b></p>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-<p><b>Tools & Platforms</b></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,npm,vite,wordpress" />
+  <img src="https://skillicons.dev/icons?i=python,postman,kotlin,wordpress" />
 </p>
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
-### 🟢 Cooper Web App — Internship @ Outsoar PH (Feb–May 2026)
-A team-built platform with a **Laravel + Filament** web admin panel and a **Node.js Discord bot** that handles time-in/time-out attendance, announcements, and a per-channel AI assistant.
-**Tech:** Laravel · Filament · Node.js · Discord API
-*Internship project (private)*
+### 🟢 Cooper Web App — Internship @ Outsoar PH *(Feb–May 2026)*
+A workplace management platform developed during my internship, featuring a **Laravel + Filament** admin panel and a **Node.js Discord bot** for attendance tracking, leave management, scheduling, announcements, and AI-powered Discord assistance.
 
-### 🎓 Education Information Management & Support System — Capstone (2024–2025)
-A web-based system built with **Laravel Breeze** to complement TESDA's existing platform for el Nazareno — handling record-keeping, role-based access, and reporting for trainee records.
+**Tech:** Laravel · Filament · Node.js · Discord API · MySQL · Docker
+
+> 🔒 Private internship project
+
+---
+
+### 🎓 Education Information Management & Support System *(Capstone · 2024–2025)*
+A web-based management system built for **TESDA – El Nazareno** to streamline trainee records, reporting, and role-based access while complementing the existing TESDA platform.
+
 **Tech:** Laravel Breeze · MySQL
-🔗 _[Add repo link]_
+
+🔗 *Repository coming soon*
 
 ---
 
-## GitHub Stats
+## 🚧 Currently Building
+
+### 💝 Epiphany
+An AI-powered Discord relationship advisor that delivers humorous and sarcastic **Taglish** conversations using **Google Gemini 2.5 Flash**. Built with a split Laravel backend and Node.js Discord bot architecture.
+
+**Tech:** Laravel · Node.js · Discord.js · Gemini AI · SQLite
+
+🔗 https://github.com/tamafred-2/epiphany
+
+---
+
+### ✅ Tudu
+A modern cross-platform productivity application designed to simplify task management, note-taking, reminders, and personal organization across desktop and mobile devices.
+
+**Tech:** Flutter · Dart · Material 3 · Hive · SQLite
+
+🔗 https://github.com/tamafred-2/tudu
+
+---
+
+### 🚨 Incident Monitoring System
+A secure web application for subdivision incident reporting, visitor management, and neighborhood administration with role-based access control, analytics dashboards, and PDF reporting.
+
+**Tech:** Laravel 12 · Tailwind CSS · PostgreSQL · SQLite · Spatie Permission
+
+🔗 https://github.com/tamafred-2/incident-monitoring
+
+---
+
+### ☕ Don Macchiatos Ordering System
+A modern café ordering system and portfolio case study inspired by a university stakeholder project, rebuilt using modern Laravel and React technologies to showcase clean architecture and contemporary UI/UX practices.
+
+**Tech:** Laravel 12 · React · Inertia.js · Tailwind CSS · MySQL
+
+🔗 https://github.com/tamafred-2/don-macchiato
+
+---
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tamafred-2&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamafred-2&layout=compact&theme=github_dark&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tamafred-2&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamafred-2&layout=compact&theme=github_dark&hide_border=true" />
+
+<br>
+
+<img width="99%" src="https://streak-stats.demolab.com?user=tamafred-2&theme=github-dark&hide_border=true" />
+
 </div>
 
 ---
