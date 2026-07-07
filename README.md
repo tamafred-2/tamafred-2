@@ -96,7 +96,7 @@ A modern café ordering system and portfolio case study inspired by a university
 
 **Tech:** Laravel 12 · React · Inertia.js · Tailwind CSS · MySQL
 
-🔗 https://github.com/tamafred-2/don-macchiato
+🔗 *Repository coming soon*
 
 ---
 
