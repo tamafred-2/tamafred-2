@@ -9,9 +9,15 @@ Recently completed an internship at <b>Outsoar PH</b>, where I built real-world 
 
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlfredTamayo&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/AlfredTamayo?style=for-the-badge&label=Followers" />
-  <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/tamafred-2">
+    <img src="https://komarev.com/ghpvc/?username=tamafred-2&style=for-the-badge&color=blue" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/tamafred-2?tab=followers">
+    <img src="https://img.shields.io/github/followers/tamafred-2?style=for-the-badge&label=Followers" alt="Followers" />
+  </a>
+  <a href="https://github.com/tamafred-2?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View%20Repositories-181717?style=for-the-badge&logo=github" alt="Projects" />
+  </a>
 </p>
 
 ---
