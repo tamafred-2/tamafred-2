@@ -17,7 +17,7 @@ Recently completed an internship at <b>Outsoar PH</b>, where I built real-world 
     <img src="https://img.shields.io/github/followers/tamafred-2?style=for-the-badge&label=Followers" alt="Followers" />
   </a>
   <a href="https://github.com/tamafred-2?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-View%20Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+    <img src="https://img.shields.io/badge/Projects-View-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
 </p>
 
