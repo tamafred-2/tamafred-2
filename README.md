@@ -8,7 +8,11 @@ Recently completed an internship at <b>Outsoar PH</b>, where I built real-world 
 </p>
 
 </div>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlfredTamayo&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/AlfredTamayo?style=for-the-badge&label=Followers" />
+  <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge&logo=github" />
+</p>
 ---
 
 ## About Me
