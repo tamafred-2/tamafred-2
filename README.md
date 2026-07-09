@@ -25,7 +25,7 @@ I'm a web developer finishing my BSIT (major in **Web and Mobile Technologies**)
 ## 💻 Primary Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,flutter,dart,html,css,js,tailwind,mysql,postgres,sqlite,docker,git,github,vite,java,cs,cpp" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,flutter,dart,html,css,js,tailwind,mysql,postgres,sqlite,docker,git,github,vite,java,cs,cpp,python" />
 </p>
 
 ### 🌱 Currently Learning
@@ -37,7 +37,7 @@ I'm a web developer finishing my BSIT (major in **Web and Mobile Technologies**)
 ### 🛠️ Familiar With
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postman,kotlin,wordpress" />
+  <img src="https://skillicons.dev/icons?i=postman,kotlin,wordpress" />
 </p>
 
 ---
