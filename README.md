@@ -13,6 +13,7 @@ Recently completed an internship at <b>Outsoar PH</b>, where I built real-world 
   <img src="https://img.shields.io/github/followers/AlfredTamayo?style=for-the-badge&label=Followers" />
   <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge&logo=github" />
 </p>
+
 ---
 
 ## About Me
