@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Alfred Tamayo
-### Dev
+### Web Developer
 
 <p>
 Recently completed an internship at <b>Outsoar PH</b>, where I built real-world software systems and gained hands-on development experience across web and backend.
