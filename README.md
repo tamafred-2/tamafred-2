@@ -112,6 +112,13 @@ A modern café ordering system and portfolio case study inspired by a university
 
 ---
 
+### 🦷 Dental Clinic Management System
+A full-stack clinic platform designed to streamline patient engagement, appointment scheduling, and front-desk operations with an AI inquiry assistant and automated multi-channel messaging.
+
+**Tech:** Next.js · React · NestJS · TypeScript · PostgreSQL · Prisma · OpenAI API · n8n · Docker
+
+🔗 *Repository coming soon*
+
 ---
 
 ## 📊 GitHub Stats
