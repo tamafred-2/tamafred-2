@@ -56,7 +56,7 @@ I'm a web developer finishing my BSIT (major in **Web and Mobile Technologies**)
 
 ## 🚀 Featured Projects
 
-### 🟢 Cooper Web App — Internship @ Outsoar PH *(Feb–May 2026)*
+### 🟢 Cooper Web App — Internship @ [Outsoar PH](https://github.com/outsoarph)* *(Feb–May 2026)*
 A workplace management platform developed during my internship, featuring a **Laravel + Filament** admin panel and a **Node.js Discord bot** for attendance tracking, leave management, scheduling, announcements, and AI-powered Discord assistance.
 
 **Tech:** Laravel · Filament · Node.js · Discord API · MySQL · Docker
