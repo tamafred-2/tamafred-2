@@ -12,7 +12,7 @@
 <path d="M0.5 38 V10.5 a10 10 0 0 1 10 -10 H989.5 a10 10 0 0 1 10 10 V38Z" fill="#161b22"/>
 <line x1="0" y1="38.5" x2="1000" y2="38.5" stroke="#30363d"/>
 <circle cx="26" cy="19.5" r="6" fill="#ff5f56"/><circle cx="48" cy="19.5" r="6" fill="#ffbd2e"/><circle cx="70" cy="19.5" r="6" fill="#27c93f"/>
-<text x="500" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">alfred@dev: ~</text>
+<text x="500" y="24" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8b949e">alfredev@helloWorld: ~</text>
 <g clip-path="url(#w)">
 <text x="40" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="20" xml:space="preserve"><tspan fill="#3fb950" font-weight="400">$ </tspan><tspan fill="#e6edf3" font-weight="400">whoami</tspan></text>
 <rect class="cv" x="36" y="74" width="1000" height="34" fill="#0d1117" style="--n:8;animation-duration:0.36s;animation-delay:0.3s"/>
