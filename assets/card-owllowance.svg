@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="215" viewBox="0 0 480 215">
 <defs>
-<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6366f1"/><stop offset="1" stop-color="#6366f1" stop-opacity="0.2"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f43f5e"/><stop offset="1" stop-color="#f43f5e" stop-opacity="0.2"/></linearGradient>
 <linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
 <clipPath id="k"><rect x="1" y="1" width="478" height="213" rx="14"/></clipPath>
 </defs>
 <style>
-.c{animation:in .7s 0.14s ease-out both}
+.c{animation:in .7s 0.21s ease-out both}
 @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 .p{animation:pulse 1.8s ease-in-out infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
@@ -15,16 +15,16 @@
 <g class="c">
 <rect x="1" y="1" width="478" height="213" rx="14" fill="url(#b)" stroke="#1f2937"/>
 <g clip-path="url(#k)"><rect x="1" y="1" width="478" height="4" fill="url(#a)"/><rect class="sh" x="0" y="1" width="120" height="4" fill="#fff" opacity="0.35"/></g>
-<text x="24" y="42" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f1f5f9">Owllowance</text>
+<text x="24" y="42" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f1f5f9">RHU Patient Records</text>
 <g transform="translate(384,26)"><rect width="72" height="22" rx="11" fill="#1e293b"/><circle cx="16" cy="11" r="5.2" fill="none" stroke="#94a3b8" stroke-width="1.2"/><ellipse cx="16" cy="11" rx="2.2" ry="5.2" fill="none" stroke="#94a3b8" stroke-width="1.1"/><line x1="10.8" y1="11" x2="21.2" y2="11" stroke="#94a3b8" stroke-width="1.1"/><text x="27" y="15" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#cbd5e1">Public</text></g>
-<text x="24" y="72" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Offline-first Android budget tracker with wallets,</text>
-<text x="24" y="91" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">budgets, savings goals, and encrypted backup.</text>
-<text x="24" y="116" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#6366f1" font-weight="600">React Native · Expo · TypeScript · SQLite</text>
+<text x="24" y="72" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Patient records, visits, queues, and staff dashboards</text>
+<text x="24" y="91" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">for a rural health unit.</text>
+<text x="24" y="116" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#f43f5e" font-weight="600">Laravel · SQLite · PostgreSQL-ready</text>
 <line x1="24" y1="128" x2="456" y2="128" stroke="#1f2937"/>
 <text x="24" y="148" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1">TYPE</text>
-<text x="76" y="148" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#cbd5e1">Personal project</text>
+<text x="76" y="148" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#cbd5e1">Client project · RHU Calasiao</text>
 <text x="24" y="167" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1">ROLE</text>
-<text x="76" y="167" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#cbd5e1">Mobile app, local database, backup, and widgets</text>
+<text x="76" y="167" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#cbd5e1">Laravel system built from staff interviews</text>
 <rect x="24" y="180" width="123" height="22" rx="11" fill="#fbbf24" opacity="0.14"/>
 <circle class="p" cx="37" cy="191" r="3.5" fill="#fbbf24"/>
 <text x="48" y="195" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#fbbf24">In development</text>
