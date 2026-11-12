@@ -1,6 +1,10 @@
 <div align="center">
 
-   <img src="assets/header.svg?v=2" alt="Alfred Tamayo, Web Developer" width="100%" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=githubpages&logoColor=white)](https://tamafred-2.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-tamayo-94411b401/)
+[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01796b2bdfa52c729e)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tamafred2@gmail.com)
 
 <br/>
 
@@ -9,10 +13,7 @@ Interned at [Outsoar PH](https://github.com/outsoarph) building Laravel, Filamen
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=githubpages&logoColor=white)](https://tamafred-2.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-tamayo-94411b401/)
-[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01796b2bdfa52c729e)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tamafred2@gmail.com)
+   <img src="assets/header.svg?v=2" alt="Alfred Tamayo, Web Developer" width="100%" />
 
 </div>
 
@@ -35,4 +36,4 @@ Interned at [Outsoar PH](https://github.com/outsoarph) building Laravel, Filamen
 </div>
 
 <br/>
-<p align="center"><sub>AI-assisted development is part of my workflow. I check every result myself before it goes into my code.</sub></p>
+<p align="center"><sub>AI-assisted development is part of my workflow.</sub></p>
