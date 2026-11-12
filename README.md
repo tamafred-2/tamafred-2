@@ -19,20 +19,20 @@ Interned at [Outsoar PH](https://github.com/outsoarph) building Laravel, Filamen
 <br/>
 
 <h3 align="center">Selected Work</h3>
-<p align="center"><sub>Each card shows whether the code is public or private, what kind of project it is, and my part in it. Public projects link to their repositories.</sub></p>
+<p align="center"><sub>Each card shows whether the code is public or private, what kind of project it is, and my part in it. Click a card to open it: public projects open their repository, and private ones open a page with more details.</sub></p>
 
 <div align="center">
 
-<img src="assets/card-cooper.svg" alt="Cooper HR System" width="49%" />
-<img src="assets/card-ngitora.svg" alt="Ngitora" width="49%" />
+<a href="https://github.com/outsoarph"><img src="assets/card-cooper.svg" alt="Cooper HR System" width="49%" /></a>
+<a href="https://tamafred-2.github.io/projects/ngitora/"><img src="assets/card-ngitora.svg" alt="Ngitora" width="49%" /></a>
 <a href="https://github.com/tamafred-2/Owllowance"><img src="assets/card-owllowance.svg" alt="Owllowance" width="49%" /></a>
 <a href="https://github.com/tamafred-2/patient-record-management-system"><img src="assets/card-rhu.svg" alt="RHU Patient Records" width="49%" /></a>
 <a href="https://github.com/tamafred-2/incident-monitoring"><img src="assets/card-incident.svg" alt="Incident Monitoring System" width="49%" /></a>
 <a href="https://github.com/tamafred-2/epiphany"><img src="assets/card-epiphany.svg" alt="Epiphany" width="49%" /></a>
 <a href="https://github.com/tamafred-2/tudu"><img src="assets/card-tudu.svg" alt="Tudu" width="49%" /></a>
 <a href="https://github.com/tamafred-2/emeowy"><img src="assets/card-emeowy.svg" alt="Emeowy" width="49%" /></a>
-<img src="assets/card-education.svg" alt="Education Information System" width="49%" />
-<img src="assets/card-macchiatos.svg" alt="Don Macchiatos Ordering" width="49%" />
+<a href="https://github.com/tamafred-2/tamafred-2/blob/main/private-projects.md#education-information-system"><img src="assets/card-education.svg" alt="Education Information System" width="49%" /></a>
+<a href="https://github.com/tamafred-2/tamafred-2/blob/main/private-projects.md#don-macchiatos-ordering"><img src="assets/card-macchiatos.svg" alt="Don Macchiatos Ordering" width="49%" /></a>
 
 </div>
 
