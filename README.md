@@ -18,9 +18,7 @@ Interned at [Outsoar PH](https://github.com/outsoarph) building Laravel, Filamen
 
 <br/>
 
-<h3 align="center">Selected Work</h3>
-<p align="center"><sub>Each card shows whether the code is public or private, what kind of project it is, and my part in it. Click a card to open it: public projects open their repository, and private ones open a page with more details.</sub></p>
-
+<h3 align="left">Projects</h3>
 <div align="center">
 
 <a href="https://github.com/outsoarph"><img src="assets/card-cooper.svg" alt="Cooper HR System" width="49%" /></a>
@@ -37,11 +35,4 @@ Interned at [Outsoar PH](https://github.com/outsoarph) building Laravel, Filamen
 </div>
 
 <br/>
-
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,react,nextjs,nestjs,flutter,dart,html,css,tailwind,mysql,postgres,sqlite,docker,git,python,java,kotlin&perline=11" alt="Tech stack" />
-</p>
-
-<p align="center"><sub>I use AI tools such as Codex and Claude to help with coding and debugging, and I review the results myself.</sub></p>
+<p align="center"><sub>AI-assisted development is part of my workflow. I check every result myself before it goes into my code.</sub></p>
