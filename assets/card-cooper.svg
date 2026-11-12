@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="215" viewBox="0 0 480 215">
+<defs>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#10b981"/><stop offset="1" stop-color="#10b981" stop-opacity="0.2"/></linearGradient>
+<linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#0b1020"/></linearGradient>
+<clipPath id="k"><rect x="1" y="1" width="478" height="213" rx="14"/></clipPath>
+</defs>
+<style>
+.c{animation:in .7s 0.00s ease-out both}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.p{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.sh{animation:sh 5s linear infinite}
+@keyframes sh{from{transform:translateX(-500px)}to{transform:translateX(500px)}}
+</style>
+<g class="c">
+<rect x="1" y="1" width="478" height="213" rx="14" fill="url(#b)" stroke="#1f2937"/>
+<g clip-path="url(#k)"><rect x="1" y="1" width="478" height="4" fill="url(#a)"/><rect class="sh" x="0" y="1" width="120" height="4" fill="#fff" opacity="0.35"/></g>
+<text x="24" y="42" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#f1f5f9">Cooper HR System</text>
+<g transform="translate(377,26)"><rect width="79" height="22" rx="11" fill="#1e293b"/><rect x="11.5" y="10.5" width="9" height="6.5" rx="1.5" fill="#94a3b8"/><path d="M13.5 10.5 V8.8 a2.5 2.5 0 0 1 5 0 V10.5" fill="none" stroke="#94a3b8" stroke-width="1.3"/><text x="27" y="15" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#cbd5e1">Private</text></g>
+<text x="24" y="72" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">Workplace platform for attendance, leave, and</text>
+<text x="24" y="91" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#94a3b8">reporting, with a Discord bot for staff.</text>
+<text x="24" y="116" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#10b981" font-weight="600">Laravel · Filament · Node.js · Docker</text>
+<line x1="24" y1="128" x2="456" y2="128" stroke="#1f2937"/>
+<text x="24" y="148" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1">TYPE</text>
+<text x="76" y="148" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#cbd5e1">Internship team · Outsoar PH</text>
+<text x="24" y="167" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#64748b" letter-spacing="1">ROLE</text>
+<text x="76" y="167" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#cbd5e1">Laravel and Filament features, Discord bot features</text>
+<rect x="24" y="180" width="87" height="22" rx="11" fill="#2dd4bf" opacity="0.14"/>
+<circle class="" cx="37" cy="191" r="3.5" fill="#2dd4bf"/>
+<text x="48" y="195" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11.5" font-weight="600" fill="#2dd4bf">Completed</text>
+<text x="456" y="195" text-anchor="end" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11.5" fill="#64748b">2026</text>
+</g>
+</svg>
